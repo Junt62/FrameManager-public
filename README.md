@@ -6,7 +6,21 @@
 ![人物展示gif1](https://user-images.githubusercontent.com/40317014/212536346-e855bd23-252b-4411-aad7-7b15d4d841b5.gif)
 ![人物展示gif2](https://user-images.githubusercontent.com/40317014/212536347-4396be4c-14b6-42c2-a3c1-5e7aa42ac9e7.gif)
 
-## 简介
+## 主要功能
+1.    可选模式(5种模式)：  
+      ![可选模式](https://user-images.githubusercontent.com/40317014/212536536-7e3e79cb-3140-4e59-bf64-dcab67c6be3f.png)
+      
+2.    可选动作(人物11个动作，怪物5个动作)：  
+      ![可选动作](https://user-images.githubusercontent.com/40317014/212536554-54a57e67-4f98-4816-83a7-e42b66f0466b.png)
+
+3.    可选方向(均为8个方向)：  
+      ![可选方向](https://user-images.githubusercontent.com/40317014/212536557-97122649-daba-42f7-b7fe-2e769bb607ff.png)
+
+4.    可自定义播放速度(放慢100倍，加速50倍)：  
+      ![可自定义速度](https://user-images.githubusercontent.com/40317014/212536558-fdc060cd-1c18-4bab-a613-e43de8f33032.png)
+
+
+## 起源
 我本身呢，是一名传奇广告设计师,  
 平时工作中主要使用ae来制作传奇游戏的广告，  
 有一种类型的广告叫做序列帧，它们看起来像这样的：  
@@ -50,7 +64,7 @@
 不需要手动创建非常多的文件夹，时间消耗节省，  
 不需要手动选择图片导入，繁琐性一下子降低到几乎为0。  
 
-####关于本插件：
+#### 关于本插件：
 本插件使用了注册码功能，  
 想要使用本插件需要联系我购买注册码，  
 我写了一个检测程序，  
