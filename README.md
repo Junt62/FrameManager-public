@@ -3,7 +3,8 @@
 本产品为一个c++语言开发的after effect插件，  
 用在AE里面制作广告时，  
 方便快速地调用600/360序列帧图片。  
-**演示GIF如下**：  
+
+#### 演示GIF如下：  
 ![人物展示gif1](https://user-images.githubusercontent.com/40317014/212536346-e855bd23-252b-4411-aad7-7b15d4d841b5.gif)
 ![人物展示gif2](https://user-images.githubusercontent.com/40317014/212536347-4396be4c-14b6-42c2-a3c1-5e7aa42ac9e7.gif)
 
