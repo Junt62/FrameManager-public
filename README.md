@@ -3,6 +3,8 @@
 用在AE里面制作广告时，  
 方便快速地调用600/360序列帧图片。  
 **演示GIF如下**：  
+![人物展示gif1](https://user-images.githubusercontent.com/40317014/212536191-dcdf33a6-35f3-4104-a230-9eb1f4389bb1.gif)
+![人物展示gif2](https://user-images.githubusercontent.com/40317014/212536286-07879f96-8d79-4f06-9334-3b17081baa5d.gif)
 
 
 ## 简介
