@@ -8,6 +8,7 @@
 有一种类型的广告叫做序列帧，它们看起来像这样的：
 
 https://user-images.githubusercontent.com/40317014/212533492-b07c3f82-4eec-41a9-a084-5432e124e01f.mp4
+![frame](https://user-images.githubusercontent.com/40317014/212534065-81d87c8e-9b06-4512-982d-303b3f1b05be.gif)
 
 本质上整个游戏广告的画面由图片一张张拼合起来，
 在调用这个图片的时候我遇到一些麻烦事：
