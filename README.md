@@ -19,7 +19,10 @@
 4.    可自定义播放速度(放慢100倍，加速50倍)：  
       ![可自定义速度](https://user-images.githubusercontent.com/40317014/212536558-fdc060cd-1c18-4bab-a613-e43de8f33032.png)
 
+5.    自行调整匹配怪物的帧数，灵活性更强：
+      ![怪物自定义帧数模式](https://user-images.githubusercontent.com/40317014/212536681-cf57ba92-cb03-44f9-9a17-3d61449959c5.png)
 
+      
 ## 起源
 我本身呢，是一名传奇广告设计师,  
 平时工作中主要使用ae来制作传奇游戏的广告，  
